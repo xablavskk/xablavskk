@@ -50,7 +50,7 @@ Sou um **Desenvolvedor Fullstack** focado em criar sistemas escaláveis, bem est
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xablavskk&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xablavskk&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xablavskk&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
 
 </div>
 
