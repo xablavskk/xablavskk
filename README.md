@@ -9,6 +9,6 @@ Sou um **Desenvolvedor Fullstack** apaixonado por construir sistemas escaláveis
 
 ---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&count_private=true&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula&hide_border=true&langs_count=6)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=xablavskk&show_icons=true&theme=dracula&count_private=true&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=xablavskk&layout=compact&theme=dracula&hide_border=true&langs_count=6)
 [![GitHub Streak](https://streak-stats.demolab.com?user=xablavskk&theme=horizon&border_radius=4.0&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
