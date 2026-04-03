@@ -1,24 +1,33 @@
-<h1 align="center"> Fala aí, eu sou o Mario</h1>
+<h1 align="center">Fala aí, eu sou o Mario</h1>
 
 <p align="center">
-  Desenvolvedor Fullstack | Cloud | Segurança
+  <strong>Desenvolvedor Fullstack | Cloud | Segurança</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=857E7D&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Cloud+AWS+%7C+Arquitetura+de+Software;Sempre+evoluindo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=857E7D&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Cloud+AWS+%7C+Arquitetura+Escalável;Segurança+e+Engenharia+de+Software" />
 </p>
 
 ---
 
 ## Sobre Mim
 
-Sou um **Desenvolvedor Fullstack** focado em criar sistemas escaláveis, bem estruturados e com alta qualidade de código. Tenho experiência prática em todo o ciclo de desenvolvimento — da modelagem ao deploy — sempre aplicando boas práticas de arquitetura e engenharia de software.
+Sou um **Desenvolvedor Fullstack** com foco em **backend, arquitetura e cloud**, construindo sistemas escaláveis, performáticos e bem estruturados.
 
-- Forte atuação com **Java + Spring Boot**
-- Experiência com **Angular** e **React**
-- Aplicação de **DDD, SOLID e Arquitetura Hexagonal**
-- Deploy e infraestrutura com **AWS**
-- Interesse crescente em **Cibersegurança (Segurança Ofensiva)**
+Tenho experiência prática em todo o ciclo de desenvolvimento — da modelagem ao deploy — aplicando boas práticas como **DDD, SOLID e Arquitetura Hexagonal**.
+
+Atualmente, venho ampliando minha atuação em **segurança ofensiva**, buscando unir desenvolvimento e segurança.
+
+---
+
+## Diferenciais
+
+- Forte atuação em **Java + Spring Boot**
+- Experiência com **Angular e React**
+- Arquitetura: **DDD, SOLID, Clean Architecture**
+- Cloud: **AWS (EC2, S3, Deploy, Infraestrutura)**
+- Interesse avançado em **Cibersegurança**
+- Experiência com sistemas reais e aplicações completas
 
 ---
 
@@ -48,25 +57,56 @@ Sou um **Desenvolvedor Fullstack** focado em criar sistemas escaláveis, bem est
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xablavskk&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xablavskk&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xablavskk&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xablavskk&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
 
 </div>
 
 <div align="center">
-  
-  <img height="180em" src="https://streak-stats.demolab.com?user=xablavskk&theme=horizon&border_radius=4.0&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat"/>
-
+  <img height="180em" src="https://streak-stats.demolab.com?user=xablavskk&theme=horizon&border_radius=4.0"/>
 </div>
+
+---
+
+## Projetos em Destaque
+
+**Sistema de Gestão de Documentos**  
+- Upload, versionamento e organização de documentos  
+- Integração com armazenamento (AWS S3)  
+- Backend em Java + Spring Boot  
+
+**Sistema de Gestão de Cemitério**  
+- Controle de registros, lotes e histórico  
+- Modelagem de dados complexa  
+- Regras de negócio robustas  
+
+**Sistema com Geolocalização de Imóveis**  
+- Captura de coordenadas e exibição em mapa  
+- Uso de queries geoespaciais  
+- Integração backend + frontend  
+
+---
+
+## Segurança & Estudos
+
+Atualmente aprofundando conhecimentos em:
+
+- Segurança ofensiva  
+- Engenharia social  
+- Testes de vulnerabilidade  
+- Análise de superfícies de ataque  
+
+Objetivo: unir desenvolvimento com mentalidade de segurança (**secure by design**)
 
 ---
 
 ## Foco Atual
 
-- Aprofundando em **Java 21** e melhorias de performance
-- Evoluindo em **AWS e arquitetura cloud**
-- Estudando **segurança ofensiva e engenharia social**
+- Java 21 e otimização de performance  
+- Arquitetura escalável em cloud  
+- Evolução em AWS  
+- Segurança aplicada ao desenvolvimento  
 
 ---
 
